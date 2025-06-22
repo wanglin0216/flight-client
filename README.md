@@ -1,2 +1,3 @@
-npm install
-npm run dev
+前端：
+公网IP：3.25.195.235
+访问地址：http://3.25.195.235/
